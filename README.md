@@ -1,2 +1,2 @@
-# github-badge-practice
-Practice repo
+# GitHub Badge Practice
+Practice repo for GitHub achievements
